@@ -1,4 +1,4 @@
-# OnPageSEOAnalysis
+# On Page SEO Analysis
 On page SEO analysis - Python application
 
 Libraries: BeautifulSoup, requests, nltk, streamlit
