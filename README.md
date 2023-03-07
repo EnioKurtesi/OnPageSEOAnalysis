@@ -3,7 +3,7 @@ On page SEO analysis - Python application
 
 Libraries: BeautifulSoup, requests, nltk, streamlit
 
-Python mini-application with web scraping:
+Python mini-application with web scraping. We are trying to answer these questions:
 1. What are the main keywords that we want to rank on Google SERPs?
 2. What are the most common bigrams and trigrams?
 3. Check for the title tag, meta-description, and heading hierarchy, following the best principles.
